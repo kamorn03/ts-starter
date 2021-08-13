@@ -1,0 +1,15 @@
+{
+    "type": "postgres",
+    "host": "128.199.120.255",
+    "port": 9000,
+    "username": "root",
+    "password": "nnMcYzQ2C5Gg2pXf",
+    "database": "dpostgresql-nest",
+    "syncronize": true,
+    "longing": false,
+    "dropSchema": false,
+
+    "entities": [
+        "./src/entities/**/*.ts"
+    ]
+}
